@@ -295,7 +295,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": ">=7.4.0"
+                "php": ">=8.3"
             },
             "type": "library",
             "extra": {
@@ -348,7 +348,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": ">=7.2.0"
+                "php": ">=8.3"
             },
             "type": "library",
             "extra": {
@@ -579,7 +579,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": ">=7.2"
+                "php": ">=8.3"
             },
             "provide": {
                 "ext-mbstring": "*"
@@ -725,7 +725,7 @@
             },
             "require": {
                 "ext-tokenizer": "*",
-                "php": ">=7.1"
+                "php": ">=8.3"
             },
             "require-dev": {
                 "ircmaxell/php-yacc": "^0.0.7",
@@ -1021,7 +1021,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": ">=7.2"
+                "php": ">=8.3"
             },
             "provide": {
                 "ext-ctype": "*"
@@ -1100,7 +1100,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": ">=7.2"
+                "php": ">=8.3"
             },
             "suggest": {
                 "ext-intl": "For best performance"
@@ -1178,7 +1178,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": ">=7.2"
+                "php": ">=8.3"
             },
             "suggest": {
                 "ext-intl": "For best performance"
@@ -1342,7 +1342,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": ">=8.2",
+                "php": ">=8.3",
                 "symfony/polyfill-ctype": "~1.8",
                 "symfony/polyfill-intl-grapheme": "~1.0",
                 "symfony/polyfill-intl-normalizer": "~1.0",
